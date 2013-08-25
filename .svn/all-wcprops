@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mobilesearch/!svn/ver/32979/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage
+END
+SGWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobilesearch/!svn/ver/32432/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageDownloader.h
+END
+SGWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobilesearch/!svn/ver/32404/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageManager.m
+END
+SGWebImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mobilesearch/!svn/ver/32925/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageCache.h
+END
+SGWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobilesearch/!svn/ver/32432/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageDownloader.m
+END
+SGWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobilesearch/!svn/ver/32404/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageDecoder.h
+END
+SGURLCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobilesearch/!svn/ver/32743/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGURLCache.h
+END
+UIImageView+SGWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobilesearch/!svn/ver/32404/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/UIImageView+SGWebCache.h
+END
+SGWebImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mobilesearch/!svn/ver/32979/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageCache.m
+END
+SGWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobilesearch/!svn/ver/32404/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageDecoder.m
+END
+SGWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mobilesearch/!svn/ver/32404/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGWebImageManager.h
+END
+SGURLCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobilesearch/!svn/ver/32925/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/SGURLCache.m
+END
+UIImageView+SGWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobilesearch/!svn/ver/32404/trunk/clientapp/ios/sogoureader/sogoureader/thirdpart/SGWebImage/UIImageView+SGWebCache.m
+END
