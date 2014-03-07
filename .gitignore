@@ -1,0 +1,21 @@
+# xcode
+
+.DS_Store
+profile
+ 
+*.xcworkspace* 
+*.xcuserdata* 
+*.xcuserstate*
+*.model1
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata
+xcshareddata
+
+build/*
+
+#~.nib
+#*.swp
